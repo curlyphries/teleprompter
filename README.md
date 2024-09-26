@@ -55,7 +55,7 @@ Follow these steps to get a copy of the project running on your local machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/teleprompter.git
+   git clone https://github.com/curlyphries/teleprompter.git
    ```
 
 2. **Navigate to the Project Directory**
@@ -147,7 +147,7 @@ If Python is not installed, download it from the [official website](https://www.
 You can download the file directly or clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/teleprompter.git
+git clone https://github.com/curlyphries/teleprompter.git
 cd teleprompter
 ```
 
