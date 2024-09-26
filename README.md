@@ -239,8 +239,7 @@ Contributions are welcome! Please follow these steps:
 Feel free to reach out:
 
 - **Your Name**
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **GitHub:** [curlyphries](https://github.com/curlyphries)
 
 ---
 
