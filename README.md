@@ -151,13 +151,21 @@ git clone https://github.com/curlyphries/teleprompter.git
 cd teleprompter
 ```
 
-### 4. Run the Application
+4. Run the Application
 
 Open a terminal in the project directory and execute:
 
-```bash
+bash
+
 python teleprompter.py
-```
+
+Important: If the above command doesn't work or if it runs Python 2.x instead of Python 3.x, try using python3:
+
+bash
+
+python3 teleprompter.py
+
+This ensures that the script runs with Python 3, which is required for this application.
 
 ### 5. Using the Teleprompter Interface
 
