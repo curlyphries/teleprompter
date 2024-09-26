@@ -1,4 +1,4 @@
-# 📜 Teleprompter Application
+# 📜 Teleprompter Script
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-red?logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
